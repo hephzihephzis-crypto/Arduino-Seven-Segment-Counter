@@ -7,13 +7,13 @@ This is my first Arduino project. In this project, I used an Arduino UNO and a s
 ## Project Images
 
 ### Arduino Board
-![Arduino Board](Arduino%20board.jpg)
+![Arduino Board](1%20Arduino%20board.jpg)
 
 ### Project Setup
-![Project Setup](Project%20setup.jpg)
+![Project Setup](2%20Project%20setup.jpg)
 
 ### Seven-Segment Output
-![Seven Segment Output](Seven%20segment%20output.jpg)
+![Seven Segment Output](3%20Seven%20segment%20output.jpg)
 
 ## Components Used
 
